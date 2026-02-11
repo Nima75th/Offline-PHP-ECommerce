@@ -1,0 +1,9 @@
+<script src="../../JS/SweetAlert.min.js"></script>
+    <?php 
+    
+    
+        echo "<script>swal(\"کاربر شماره  $_SESSION[SignIn] خوش اومدی \", \"شما با موفقیت وارد حساب کاربری خود شدید\", \"success\");</script>";
+        
+    
+ 
+    ?>
