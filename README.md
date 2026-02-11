@@ -19,5 +19,5 @@ A robust full-stack web application designed for offline business environments. 
 * `DbPanel.sql`: Database schema export for local setup.
 ## 📱 Website
 <p align="center">
-  <img src="screenshots/HomePage.jpg" />
+  <img src="screenshots/HomePage.png" width="800" />
 </p>
