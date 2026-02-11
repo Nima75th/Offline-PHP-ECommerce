@@ -20,4 +20,9 @@ A robust full-stack web application designed for offline business environments. 
 ## 📱 Website
 <p align="center">
   <img src="screenshots/HomePage.png" width="800" />
+  <img src="screenshots/LogIn.png" width="800" />
+  <img src="screenshots/AddProduct.png" width="800" />
+  <img src="screenshots/AdminPanel.png" width="800" />
+  <img src="screenshots/Card.png" width="800" />
+  <img src="screenshots/ScreenMode.png" width="800" />
 </p>
