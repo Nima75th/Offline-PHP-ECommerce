@@ -17,6 +17,7 @@ A robust full-stack web application designed for offline business environments. 
 ## 📂 Project Structure
 * `01/`: Main project directory containing PHP scripts.
 * `DbPanel.sql`: Database schema export for local setup.
+# 
 <p align="center">
   <img src="screenshots/HomePage.jpg" />
   <img src="screenshots/SighnUp.jpg" width="30%" />
