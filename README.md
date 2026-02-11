@@ -20,7 +20,4 @@ A robust full-stack web application designed for offline business environments. 
 # 
 <p align="center">
   <img src="screenshots/HomePage.jpg" />
-  <img src="screenshots/SighnUp.jpg" width="30%" />
-  <img src="screenshots/AddProduct.jpg" width="30%" /> 
-  <img src="screenshots/Register.jpg" width="30%" />
 </p>
